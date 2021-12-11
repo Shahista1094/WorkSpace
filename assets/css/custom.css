@@ -1,0 +1,133 @@
+.menu p {
+    color: rgb(190, 51, 51);
+}
+.personal-profile .personal-profile__work {
+    margin-bottom: 22px;
+}
+.ReferBusiness-Enquiry ul li {
+    display: inline-block;
+    margin: 14px 0 17px;
+}
+.ReferBusiness-Enquiry ul li a {
+    text-decoration: none;
+    color: #6d56c1;
+    background: #fff;
+    padding: 10px 15px;
+    font-size: 1rem;
+    /* border-radius: 25px; */
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+}
+.ReferBusiness-Enquiry ul li a:hover {
+    color: #fff;
+    background: #6d56c1;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+}
+.personal-profile .personal-profile__name {
+    margin-top: 20px;
+}
+.profile-quote {
+    font-size: 13px;
+    font-style: italic;
+    margin-bottom: 0;
+    line-height: 20px;
+}
+.profile-right {
+    margin-top: 3rem;
+}
+.personal-profile .personal-profile__work {
+    margin-bottom: 14px;
+}
+.life-insurance {
+    font-size: 18px;
+}
+.life-insurance img {
+    margin-left: 20px;
+}
+.personal-profile .personal-profile__social {
+    margin: 15px 0 20px;
+}
+.section {
+    padding-top: 40px;
+    padding-bottom: 0;
+}
+.contact-detail-content ul li {
+    padding-bottom: 1.50rem;
+}
+.fa-phone {
+    margin-right: 10px;
+    font-size: 20px;
+}
+.fa-globe {
+    margin-right: 10px;
+    font-size: 20px;
+}
+.fa-whatsapp {
+    margin-right: 10px;
+    font-size: 23px;
+}
+.fa-telegram {
+    margin: 5px 10px 0 0;
+    /* margin-right: 10px; */
+    font-size: 20px;
+}
+.fa-envelope-open-text {
+    margin-right: 10px;
+    font-size: 20px;
+}
+.fa-map-marker {
+    margin-right: 10px;
+    font-size: 20px;
+}
+.contact-detail .map img {
+     margin: 2rem 0;
+}
+.project-card .project-card__description {
+    margin-bottom: 30px;
+}
+.project-card .project-card__description .price {
+    margin: 20px 0;
+}
+.Payment-section {
+    color: #555555;
+}
+.contact-list dt {
+    color: #555555;
+}
+.contact-list dd a {
+    color: #555555;
+}
+.background {
+    background-color: #6d56c1;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+    color: #fff;
+}
+.upi-img img {
+    margin-top: 20px;
+}
+.post-cards img {
+    margin-right: 1rem;
+}
+.project-card .project-card__link {
+    margin-top: 2rem;
+    float: left;
+}
+.tags li {
+    margin: 10px 10px 0 0;
+}
+del {
+    font-size: 17px;
+}
+.price {
+    font-size: 20px;
+}
+.project-card .project-card__description {
+    margin-bottom: 25px;
+}
