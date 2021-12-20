@@ -1,0 +1,100 @@
+.profile-quote {
+    font-size: 13px;
+    color: #4c4c4c;
+    line-height: 24px;
+    font-style: italic;
+    text-align: center;
+    margin: 1rem .50rem;
+}
+.profile {
+    padding-bottom: 1rem;
+}
+.company-info {
+    padding: 0 .50rem;
+    text-align: center;
+    line-height: 27px;
+}
+.lic-logo {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 1rem;
+}
+.qr-img {
+    float: right;
+    margin: 1rem 1rem 0 0;
+    cursor: pointer;
+}
+.modal-header .close {
+    margin-top: -34px;
+}
+.social-icons {
+    text-align: center;
+    margin-top: 1rem;
+}
+.profile .site-btn {
+    width: 115px;
+}
+.d-icon {
+    float: right;
+    margin-top: -1rem;
+}
+.contact-detail {
+    margin-top: 1.50rem;
+}
+.contact-detail ul li {
+    list-style-type: none;
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+.contact-detail ul li a {
+    margin-top: 1.50rem;
+}
+.modal-header .close {
+    margin-top: -10px;
+}
+.qr-popup {
+    text-align: center;
+}
+.modal-header {
+    border-bottom: 0;
+}
+.modal-dialog {
+    width: 368px;
+    border-radius: 10px;
+}
+.qr-popup h5 {
+    color: #333;
+    font-size: 25px;
+    margin: 1rem 0 .25rem;
+}
+.qr-popup p {
+    font-size: 15px;
+}
+.qr-popup a {
+    margin: 0 6px;
+    background: #425cbb;
+    color: #fff;
+    padding: 10px 15px;
+}
+.modal-des .modal-content {
+    width: 650px;
+    margin: 2rem auto;
+    border-radius: 0;
+}
+.modal-des h5 {
+    margin-top: 1.50rem;
+    font-size: 23px;
+}
+.modal-des p {
+    margin: 1.50rem 0;
+}
+.select {
+    margin: 1rem 0;
+}
+input[type=radio] {
+    margin: 0 10px;
+}
+
+
+
