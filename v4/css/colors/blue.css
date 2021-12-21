@@ -3,31 +3,31 @@
 /*---------------------------------- */
 
 header nav a.home-btn, .site-btn, .timeline li:first-child i, nav ul li a:after, .owl-theme .owl-controls .owl-page span, .skill-list .progress .percentage, ul.profile-information li:first-child:before{
-    background: #425cbb !important;
+    background: var(--color) !important;
 }
 
 header nav ul li a:hover, .cbp-filter-item-active, .portfolio-content p span, #blog-post .blog-sidebar ul.category-list li a:hover, #blog-post .blog-sidebar .popular-posts ul li a .info{
-    color: #425cbb !important;
+    color: var(--color) !important;
 }
 
 .spinner:before{
-    border-top-color: #425cbb;  
+    border-top-color: var(--color);  
 }
 
 ul.profile-information li:before{
-	border-color: #425cbb; 
+	border-color: var(--color); 
 }
 
 /* Hover Color*/
 
 .site-btn:hover, header nav a.home-btn:hover, .section-title span{
-   background-color: #536cca !important;
+   background-color: var(--color) !important;
 }
 
 /* Opacity Color*/
 
 #portfolio .cbp-item .portfolio-image .icon i, #portfolio .cbp-item figure .icon i{
-    background: rgb(66, 91, 187);
+    background: var(--color);
 }
 
 /* for dark colors */
@@ -37,11 +37,11 @@ ul.profile-information li:before{
 }
 
 .timeline li:before, ul.profile-information li:before{
-	border-color: #425cbb !important;
+	border-color: var(--color) !important;
 }
 
 .tab.active a, #blog-post .post-list ul li a, #blog-post .post-comment ul li .comment-content a{
-	color: #425cbb;
+	color: var(--color);
 }
 
 

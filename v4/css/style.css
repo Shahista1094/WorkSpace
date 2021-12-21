@@ -453,7 +453,7 @@ ul.profile-information li:first-child:before{
     width: 40px;
     height: 40px;
     padding: 11px 14px;
-  box-shadow: 0px 2px 32px 0px rgba(4, 123, 248, 0.3);
+  box-shadow: 0px 2px 32px 0px var(--color);
 }
 
 ul.profile-information li:first-child:after{
@@ -558,7 +558,7 @@ header nav .site-btn{
 }
 
 .fb:hover{
-    color: #3b5998!important;
+    color: var(--color)!important;
     transition: all ease 0.2s;
 }
 
@@ -573,7 +573,7 @@ header nav .site-btn{
 }
 
 .bh:hover{
-    color: #1769ff!important;
+    color: var(--color)!important;
     transition: all ease 0.2s;
 }
 
@@ -863,7 +863,7 @@ ul.timeline{
     text-align: center;
     transition: all ease 0.3s;
     text-align: center;
-    background: rgba(3, 122, 249, 0.80);
+    background: var(--color);
 }
 
 #portfolio .cbp-item figure .icon i:before{

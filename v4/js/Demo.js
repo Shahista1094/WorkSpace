@@ -53,9 +53,9 @@ $(document).ready(function () {
 
     var html = '' +
         '<div class="demo">' +
-        '<a href="#" class="settings">' +
-        '<i class="fa fa-cog fa-spin"></i>' +
-        '</a>' +
+        // '<a href="#" class="settings">' +
+        // '<i class="fa fa-cog fa-spin"></i>' +
+        // '</a>' +
         '<h5>SELECT A COLOR</h5>' +
         '<a href="#" class="color" data-color="yellow.css" style="background-color:#ffb100"></a>' +
         '<a href="#" class="color" data-color="green2.css" style="background-color:#52bf00"></a>' +
