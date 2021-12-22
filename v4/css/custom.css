@@ -160,6 +160,52 @@ input[type=radio] {
 .service-detail {
     margin-bottom: 1rem;
 }
+.service-des h5 {
+    margin-bottom: 1rem;
+}
+.product-con {
+    border-radius: 6px !important;
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 0px 48px 0px rgb(4 6 4 / 8%);
+}
+.product-con .product-des h6 {
+    font-size: 14px;
+    color: #000;
+    margin: 1rem 0 .50rem;
+}
+.product-des {
+    padding: 10px;
+}
+.pricing del {
+    font-size: 14px;
+}
+.pricing a {
+    font-size: 16px;
+    color: var(--color);
+}
+.pricing {
+    margin: .5rem 0;
+}
+.web-link {
+    font-size: 16px;
+    color: var(--color);
+}
+.detail-btn {
+    margin-top: .5rem;
+}
+header nav ul li a  {
+    font-size: 13px;
+}
+.link ul {
+    list-style-type: none;
+}
+.link ul li {
+    margin: 1rem 0 1.50rem;
+}
+.link ul li a {
+    color: var(--color);
+}
+
 
 
 
