@@ -1,5 +1,16 @@
 :root {
     --color: #1C66C2;
 }
+.main_heading {
+    font-size: 2.7rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+/* .bg-gray {
+    background: #F3F2EF;
+    height: 100vh;
+} */
+/* .main_sec {
+    padding: 4rem 0;
+} */
 
-/* color: var(--color); */

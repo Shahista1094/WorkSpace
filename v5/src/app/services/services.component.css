@@ -1,0 +1,61 @@
+.service_sec {
+    padding: 8rem 0 0 0;
+}
+.main_heading {
+    font-size: 2.7rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+.service_sec h1 {
+    margin-bottom: 2rem;
+}
+.service_sec .service_Box img {
+    width: 100%;
+}
+.service_sec .service_Box .service_Box_content {
+    position: relative;
+    background: #fff;
+    width: 85%;
+    transform: translate(30px, -97px);
+    margin-bottom: -97px;
+    border-top: 7px solid var(--color);
+    padding: 20px;
+    box-shadow: 1px 1px 10px #dbdbdb;
+}
+.service_sec .service_Box .service_Box_content h3 {
+    font-size: 1.4rem;
+    font-weight: 6500;
+}
+.service_sec .service_Box .service_Box_content p {
+    font-size: 14px;
+    color: #878585;
+    margin-bottom: 20px;
+}
+.service_sec .service_Box .service_Box_content .ViewDetailBtn {
+    border-radius: 25px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 15px;
+    text-decoration: none;
+    background: var(--color);
+}
+.service_sec .service_Box .service_Box_content .Enquiry {
+    border: 2px solid var(--color);
+    background: none;
+    padding: 5px 15px;
+    color: var(--color);
+    margin-left: .5rem;
+    -webkit-transition: .5s all ease-in-out;
+    -moz-transition: .5s all ease-in-out;
+    transition: .5s all ease-in-out;
+}
+.service_sec .service_Box .service_Box_content .Enquiry:hover {
+    padding: 5px 15px;
+    color: #fff;
+    text-decoration: none;
+    background: var(--color);
+    -webkit-transition: .5s all ease-in-out;
+    -moz-transition: .5s all ease-in-out;
+    transition: .5s all ease-in-out;
+}

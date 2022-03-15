@@ -1,12 +1,10 @@
-.bg-gray {
-    background: #F3F2EF;
-    /* height: 100vh; */
-}
+
 .profile_sec {
     border-radius: 10px;
-    margin: 2rem 0;
     padding-bottom: 2rem;
+    margin: 8rem 0 3rem 0;
     background: #fff;
+    box-shadow: 1px 1px 10px #dbdbdb;
 }
 .profile_sec .bg_sec img {
     width: 100%;
@@ -16,6 +14,7 @@
     position: relative;
     top: -6rem;
     left: 2rem;
+    width: 200px;
     margin-bottom: -6rem;
     border-radius: 50%;
     border: 7px solid #fff;
@@ -27,12 +26,13 @@
 }
 .profile_left_right .profile_left h2 {
     font-size: 1.9rem;
-    font-weight: 600;
+    font-weight: 400;
+    margin: 12px 0;
     color: #2e2e2e;
 }
 .profile_left_right .profile_left p {
     font-size: 17px;
-    color: #707070;
+    color: #2a2a2a;
     margin-bottom: 8px;
 }
 .profile_left_right .profile_left h6 {
@@ -46,17 +46,21 @@
     width: 45px;
     margin-left: 10px;
 }
+.profile_left_right .profile_Right h5 {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
 .profile_left_right .profile_left .refer_btn {
     border-radius: 25px;
     color: #fff;
-    font-size: 17px;
-    font-weight: 500;
+    font-size: 14px;
+    font-weight: 400;
     padding: 8px 15px;
     text-decoration: none;
     background: var(--color);
 }
 .profile_left_right .profile_left .Enquiry_btn {
-    border: 3px solid var(--color);
+    border: 2px solid var(--color);
     background: none;
     padding: 5px 15px;
     color: var(--color);
@@ -74,4 +78,45 @@
     -moz-transition: .5s all ease-in-out;
     transition: .5s all ease-in-out;
 }
+.profile_left_right .profile_left .social_icon {
+    margin-top: 1.5rem;
+}
+.profile_left_right .profile_left .social_icon .fa-facebook-f,
+.fa-instagram, .fa-twitter, .fa-youtube, .fa-linkedin-in, .fa-pinterest-p {
+    font-size: 1rem;
+    color: var(--color);
+    margin-right: 1rem;
+    -webkit-transition: .5s all ease-in-out;
+    -moz-transition: .5s all ease-in-out;
+    transition: .5s all ease-in-out;
+}
+#qrExampleModal .modal-header {
+    border-bottom: none;
+}
+#qrExampleModal .modal-content {
+    border-radius: 15px;
+    width: 75%;
+    margin: 40px auto;
+}
+#qrExampleModal .modal-content .modal-body h2 {
+    margin-bottom: 5px;
+}
+#qrExampleModal .modal-content .modal-body .pro_Img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+#qrExampleModal .modal-content .modal-body ul {
+    padding-left: 0;
+}
+#qrExampleModal .modal-content .modal-body ul li {
+    list-style-type: none;
+    margin-bottom: 7px;
+}
+#qrExampleModal .modal-content .modal-body ul li a {
+    text-decoration: none;
+}
+
+
+
 

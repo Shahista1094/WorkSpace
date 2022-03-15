@@ -1,17 +1,23 @@
 .top-header {
     background-color: #fff;
+    box-shadow: 1px 1px 10px #dbdbdb;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9;
 }
 .top-header .navbar {
     padding: 1rem 0;
 }
 .top-header .navbar-light .navbar-nav .nav-link {
     padding: 0;
-    font-size: 16px;
+    font-size: 13px;
     font-weight: 400;
 }
 .top-header .navbar-light .navbar-nav .nav-item img {
     height: 20px;
     width: 20px;
+    margin-bottom: 5px;
     cursor: pointer;
 }
 .top-header .navbar-light .navbar-nav .nav-item {

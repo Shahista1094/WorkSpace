@@ -1,0 +1,23 @@
+.payment_sec {
+    padding: 8rem 0 0 0;
+}
+.main_heading {
+    font-size: 2.7rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+.contact-detail-content ul {
+    padding-left: 0;
+}
+.contact-detail-content ul li {
+    list-style-type: none;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+}
+.contact-detail-content ul li a {
+    text-decoration: none;
+    color: var(--color);
+}
+.upi-img h5 {
+    font-size: 1rem;
+}

@@ -1,0 +1,39 @@
+.main_heading {
+    font-size: 2.7rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+.gallery_sec {
+    padding: 8rem 0 3rem 0;
+}
+.gallery_sec .gallery_Box {
+    margin-top: 20px;
+}
+.gallery_sec .gallery_Box .card {
+    
+    background-color: none;
+    box-shadow: 0px 0px 48px 0px rgb(4 6 4 / 8%);
+    border: 1px solid rgba(0,0,0,.125);
+}
+.link ul {
+    list-style-type: none;
+}
+.link ul li {
+    margin-top: 2rem;
+}
+.link ul li img {
+    margin-right: 1rem;
+}
+.link ul li a {
+    text-decoration: none;
+    color: var(--color);
+    font-size: 1rem;
+    font-weight: 500;
+}
+.image_bg {
+    background: #fff;
+    padding: 1rem;
+}
+.image_bg h4 {
+    margin-bottom: 0;
+}
