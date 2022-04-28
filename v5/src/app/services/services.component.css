@@ -59,3 +59,19 @@
     -moz-transition: .5s all ease-in-out;
     transition: .5s all ease-in-out;
 }
+
+@media only screen and (max-width: 1024px) {
+    .service_sec .service_Box .service_Box_content {
+        transform: translate(23px, -97px);
+    }
+}
+@media only screen and (max-width: 768px) {
+    .service_sec .service_Box .service_Box_content {
+        margin-bottom: -57px;
+    }
+}
+@media only screen and (max-width: 425px) {}
+
+@media only screen and (max-width: 375px) {}
+
+@media only screen and (max-width: 320px) {}

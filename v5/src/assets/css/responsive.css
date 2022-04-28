@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1024px) {
+    .service_sec .service_Box .service_Box_content {
+        transform: translate(23px, -97px);
+    }
+}
