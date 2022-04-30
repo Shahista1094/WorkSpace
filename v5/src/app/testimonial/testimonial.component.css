@@ -55,3 +55,33 @@
     margin-top: 10px;
     line-height: 21px;
 }
+@media only screen and (max-width: 1024px) {
+    .testimonial_sec {
+        padding: 3rem 0 0 0;
+    }
+}
+@media only screen and (max-width: 768px) {
+    
+}
+@media only screen and (max-width: 425px) {
+    .testimonial_sec {
+        padding: 2rem 0 0 0;
+    }
+}
+
+@media only screen and (max-width: 375px) {}
+
+@media only screen and (max-width: 320px) {
+    .testimonial .pic {
+        display: none;
+    }
+    .testimonial {
+        padding: 0;
+        margin: 0;
+        border-left: none;
+        position: static;
+    }
+    .testimonial .description, .testimonial .title, .testimonial .post {
+        text-align: center;
+    }
+}

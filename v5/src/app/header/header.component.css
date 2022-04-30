@@ -23,3 +23,26 @@
 .top-header .navbar-light .navbar-nav .nav-item {
     padding-right: 2rem;
 }
+@media only screen and (max-width: 1024px) {}
+
+@media only screen and (max-width: 768px) {
+    .top-header .navbar-light .navbar-nav .nav-item {
+        padding-right: 0;
+    }
+    .top-header .navbar-light .navbar-nav .nav-link {
+        margin-bottom: 1rem;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .navbar-nav {
+        margin-top: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 375px) {}
+
+@media only screen and (max-width: 320px) {}

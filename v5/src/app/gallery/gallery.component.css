@@ -37,3 +37,25 @@
 .image_bg h4 {
     margin-bottom: 0;
 }
+@media only screen and (max-width: 1024px) {
+    
+}
+@media only screen and (max-width: 768px) {
+    .image_bg {
+        margin-bottom: 2rem;
+    }
+}
+@media only screen and (max-width: 425px) {}
+
+@media only screen and (max-width: 375px) {
+    .gallery_sec {
+        padding: 2rem 0 3rem 0;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .main_heading {
+        line-height: 47px;
+        margin-bottom: 1rem;
+    }
+}

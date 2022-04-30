@@ -69,9 +69,27 @@
     .service_sec .service_Box .service_Box_content {
         margin-bottom: -57px;
     }
+    .service_sec .service_Box .service_Box_content {
+        transform: translate(49px, -97px);
+    }
 }
-@media only screen and (max-width: 425px) {}
+@media only screen and (max-width: 425px) {
+    .service_sec .service_Box .service_Box_content {
+        transform: translate(30px, -97px);
+    }
+}
 
-@media only screen and (max-width: 375px) {}
+@media only screen and (max-width: 375px) {
+    .service_sec .service_Box .service_Box_content {
+        transform: translate(27px, -97px);
+    }
+    .service_sec {
+        padding: 2rem 0 0 0;
+    }
+}
 
-@media only screen and (max-width: 320px) {}
+@media only screen and (max-width: 320px) {
+    .service_sec .service_Box .service_Box_content {
+        transform: translate(23px, -97px);
+    }
+}
